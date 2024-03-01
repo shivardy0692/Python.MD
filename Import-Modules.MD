@@ -1,4 +1,4 @@
-## sys modele:
+## sys module:
 ````sh
 import sys
 
