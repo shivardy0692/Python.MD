@@ -13,3 +13,11 @@ if operator == "add":
 input: file_name.py 2 add 3
 output: 5
 ````
+## os module:
+````
+cmd: export password="shiva"
+
+import os
+
+print(os.getenv("password"))
+````
